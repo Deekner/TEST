@@ -9,6 +9,9 @@ namespace TEST
             SayHi("Dennis", 26);
             SayHi("John", 28);
             SayHi("Thomas", 28);
+            SayHi("Dennis", 26);
+            SayHi("John", 28);
+            SayHi("Thomas", 28);
 
         }
 
